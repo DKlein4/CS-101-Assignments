@@ -1,0 +1,8 @@
+name                          id        nametype  recclass                      mass (g)            fall      year                     reclat         reclong        GeoLocation              
+
+Independence                  12028     Valid     L6                            880                 Fell      01/01/1917 12:00:00 AM   39.083330      -94.400000     (39.08333, -94.4)        
+
+Kansas City (1903)            12248     Valid     H5                            36000               Found     01/01/1903 12:00:00 AM   39.100000      -94.633330     (39.1, -94.63333)        
+
+Overland Park                 18056     Valid     H4                            1374                Found     01/01/1998 12:00:00 AM   38.966670      -94.666670     (38.96667, -94.66667)    
+
